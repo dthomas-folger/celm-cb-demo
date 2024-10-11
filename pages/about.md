@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="[mainimg](https://images.folger.edu/uploads/2022/11/ym_firstfolio_101617-0947.jpg)" %}
+{% include feature/jumbotron.html objectid="https://images.folger.edu/uploads/2022/11/ym_firstfolio_101617-0947.jpg" %}
 
 {% include feature/nav-menu.html sections="History and Contributors;Advisory Board;Introduction by Peter Beal;Acknowledgements" %}
 
