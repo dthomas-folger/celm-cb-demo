@@ -1,13 +1,13 @@
 field,display_name,browse_link,external_link
-CELM #,CELM #
-title,Title
-author,Author
-date,Date
-work group,Work Group
-work subgroup,Work Subgroup
-abbr,Repository
-shelfmark,Shelfmark
-locus,Locus
-brief description,Brief Description
-description,Description
-provenance,Provenance
+celmno,CELM #,,
+title,Title,,
+author,Author,,
+date,Date,,
+work group,Work Group,,
+work subgroup,Work Subgroup,,
+abbr,Repository,,
+shelfmark,Shelfmark,,
+locus,Locus,,
+brief description,Brief Description,,
+description,Description,,
+provenance,Provenance,,
