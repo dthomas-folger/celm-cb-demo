@@ -1,15 +1,13 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+CELM #,CELM #
+title,Title
+author,Author
+date,Date
+work group,Work Group
+work subgroup,Work Subgroup
+abbr,Repository
+shelfmark,Shelfmark
+locus,Locus
+brief description,Brief Description
+description,Description
+provenance,Provenance
